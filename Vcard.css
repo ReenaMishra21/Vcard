@@ -6,25 +6,22 @@ body{
 
 }
 .card{
-margin-left: 32%;
-margin-top:15%;
+
+margin-top:30%;
 border: 2px rgb(0, 51, 128) double !important;
 box-shadow:25px 30px 20px rgb(12, 68, 70);
 border-radius: 10px !important;
-height: 28% !important;
 border-left: 10px solid rgb(29, 59, 156)  !important;
 background-image:url('https://files.123freevectors.com/wp-content/original/214716-abstract-pink-and-brown-blank-business-card-background.jpg') !important;
 color:white;
 }
     
 .card-title{
-    margin-left:8%;
     font-size: 30px;
     margin-bottom: 8% !important;
    
 }
 #qrcode{
     border: 2px solid black !important;
-    margin-top: 8%;
-    margin-right:2% ;
-}
+    margin-top: 10%;
+}   
